@@ -1,0 +1,59 @@
+.Nav li{
+  display: inline-block;
+  list-style: none;
+  padding: 20px 40px;
+}
+ul {
+  list-style: none;
+  background-color: e093#0f;
+  color: black;
+}
+.home{
+  background-image: url(../img/wallpaper.jpg);
+  background-size: 100%
+}
+body{
+  background-color: #88cc92;
+  background-size: 100%
+}
+li{
+  color: black;
+  padding: 20px 40px;
+
+}
+.Nav li:hover {
+  background-color: #63676d;
+  /*padding: 40px 20px;*/
+}
+a{
+
+}
+link{
+  color: white;
+
+}
+.Nav{
+  color: white;
+
+
+
+}
+.image{
+    width: 718px;
+    height:404px;
+    image-orientation: center;
+  }
+.contact{
+  text-align: center;
+}
+.room{
+  display: list-item;
+}
+.pic img{
+  width: 500px;
+  height: 320px;
+
+}
+.contact p{
+  text-align: center;
+}
